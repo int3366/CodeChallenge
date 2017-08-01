@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CodeChallenge.cpp
+  CodeChallengeDlg.cpp
+  DataSet.cpp
+  Results.cpp
+  Generating code
+  All 245 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CodeChallenge.vcxproj -> c:\users\wayne\documents\visual studio 2017\Projects\CodeChallenge\Release\CodeChallenge.exe
